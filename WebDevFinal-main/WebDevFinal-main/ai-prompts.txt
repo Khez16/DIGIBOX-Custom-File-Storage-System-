@@ -1,0 +1,88 @@
+ALI:
+Solving problems with my routers 
+Problems with my D3.vue not fetching files correctly from backend
+Problem with my dark Mode doesn't ensure all texts are readable during dark
+Why are my .files-container going off screen? 
+How to make my .files-container fixed or at the top.
+why does my width in my css not target a specific page properly ( /home )
+Error with my http://localhost:5173/  not routing to /login properly
+How to read/fetch files correctly with D3.
+How do I integrate Axios to fetch files in Vue.js and display them alongside a D3 chart?
+How do I center an element horizontally and vertically in CSS using Flexbox?
+How to make my text fixed above my table.
+
+Solving problems with my routers 
+Problems with my D3.vue not fetching files correctly from backend
+Problem with my dark Mode doesn't ensure all texts are readable during dark
+
+KERSH: (Claude 3.7 Thinking used in All)
+Walk me through this error in detail without giving me a solution.
+
+FirebaseError: Invalid collection reference. Collection references must have an odd number of segments, but files/users has 2.
+undefined
+FirebaseError: Invalid collection reference. Collection references must have an odd number of segments, but files/users has 2.
+files are in files/users/user/filename, do i have to change the reference call?
+
+this.getRecentFiles(),
+when calling this, should the output be like
+[{ name: 'My Box Notes', updated: 'Today by Ji Duff', size: '0 Files' }],
+or do I have to make this manually? Do not give me code, I just need the explanation.
+
+{name: 'CV_Report.pdf', type: 'pdf', download_url: "blah blah"},
+why does this not work, but
+{ name: '2016-01-22 11.jpg', type: 'image' },
+does
+
+SIMON:
+<template>
+  <div class="d-flex flex-column" style="min-height: 100vh;">
+    <NavBar /> 
+    <div class="d-flex flex-grow-1">
+      <Sidebar />
+      <div class="flex-grow-1 p-4">
+        <FilesBrowser />
+        <router-view />
+      </div>
+    </div>
+  </div>
+</template>
+
+how do I call my Navbar.vue from my other file into this one
+
+
+what does bg primary mean on bootsrap?
+I would I use display flex properties with bootstrap
+
+SMIT:
+Help with frontend separating page layers inorder to make Navbar stay fixed
+
+MOEZ:
+ <li class="nav-item mb-2">
+          <a class="nav-link text-white" href="#">
+            <i class="bi folder me-2"></i>Home
+            </a>
+        </li>
+
+What is wrong with the setup of this code,
+
+How do i install Bootstrap icons
+How do i install Bootstrap
+I need the import file for bootstrap icons 
+commands for pulling from another persons brach
+how do i install the router
+how do i setup the router
+
+i wanna make a new page for the trash would i have to make a new html file or would i make a new App.vue file and call it Trash.vue instead
+
+[plugin:vite:vue] Element is missing end tag.
+C:/Users/moezk/University/WebDev/WebDevFinal/WebDevFinal/src/view/Body.vue:2:3
+1  |  <template>
+2  |    <div class="files-container py-4 px-3 px-md-5">
+   |     ^
+3  |      <!-- Header -->
+4  |      <div class="d-flex justify-content-between align-items-center mb-4 flex-wrap gap-3">
+Getting this error what is it saying
+
+HAIDER:
+Cross-Origin-Opener-Policy policy would block the window.location call. why?
+once i sign out i can just hit the back arrow to log back in, why? how to remove cache from login

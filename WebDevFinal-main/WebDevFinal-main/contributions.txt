@@ -1,0 +1,6 @@
+Kersh: Setup, Upload, Session, Files, Rename, Download, Delete, Restore, Implemented calls in Frontend
+Haider: Setup, Register, Signin, Password Reset, Helper functions for Register and Signin, Login UI, Helped with main and trash body, Made it responsive
+Moez: Sidebar, body and trash, dropdown component, helped with routing, Sidebar calls, connected icons and bootstrap
+Simon: Created icons, D3.vue, fixed Sidebar bugs, Firebase testing, made website responsive, helped with routing
+Aliseena: Frontend (animations, made all frontend pages, fixed formatting, D3, dark mode, helped with routing)
+Smit: Fixed and adjusted frontend, adjusted navbar and sidebar, added logo, fixed sizing

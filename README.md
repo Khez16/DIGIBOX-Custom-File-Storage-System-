@@ -1,6 +1,6 @@
-# DigiBox - CSCI3230U Final Project
+# DigiBox 
 
-Our project is a custom file storage system built using everything that we have learned in the course, such as Vue, Express.js, D3, web services and more. It allows users to upload, delete, download and rename files that can be stored in their storage for future use. The secret behind this is Google's Firebase, which is why we wanted to build something like this in the first place. Firebase is also what we used for the 'new' component that was not taught in class. Firebase Authentication, the Firestore database and cloud Storage API methods were utilized in the server's custom API calls that provides a secure experience.
+Our project is a custom file storage system built using everything that we have learned, such as Vue, Express.js, D3, web services and more. It allows users to upload, delete, download and rename files that can be stored in their storage for future use. The secret behind this is Google's Firebase, which is why we wanted to build something like this in the first place. Firebase is also what we used for the 'new' component that was not taught in class. Firebase Authentication, the Firestore database and cloud Storage API methods were utilized in the server's custom API calls that provides a secure experience.
 
 ## Group Members
 
